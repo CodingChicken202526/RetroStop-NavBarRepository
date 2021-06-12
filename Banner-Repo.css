@@ -1,0 +1,46 @@
+/*banner code*/
+.banner{
+	background-color: rgb(51, 42, 26);
+	margin: -10px -10px -10px -10px;
+	height: 90px;
+}
+
+.logo-small{
+	text-align: center;
+	margin: 10px;
+}
+
+.text-button{
+	background: none;
+	border: none;
+	font-size: 32px;
+	margin-right: 25px;
+	font-family: monospace;
+	color:rgb(239, 220, 211);
+	vertical-align: bottom;
+	padding-bottom: 5px;
+	position: relative;
+	bottom: 10px;
+	left: 5px;
+}
+
+.login-links{
+	float: right;
+	padding-top: 50px;
+	text-decoration: underline;
+}
+
+.search-bar[type=text]{
+	height: 25px;
+	border: 1px solid rgb(170, 87, 75);
+	background-color: rgb(124, 91, 65);
+	color:rgb(239, 220, 211);
+	padding-right: 10%;
+	margin: 8px;
+	vertical-align: bottom;
+}
+
+a {
+	cursor : hover;
+	text-decoration: none;
+}
